@@ -1,0 +1,11 @@
+Model Information:
+* title:	FC85-R71
+* source:	https://sketchfab.com/3d-models/fc85-r71-2a7bf3c0e9794e38963439f3e4c869fd
+* author:	Interiors3D (https://sketchfab.com/Interiors3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FC85-R71" (https://sketchfab.com/3d-models/fc85-r71-2a7bf3c0e9794e38963439f3e4c869fd) by Interiors3D (https://sketchfab.com/Interiors3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
